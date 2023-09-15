@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>tip</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Total calculation - Tip</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+	if (isLoading || newValue === '') {
+		return;
+	}
+
+
+	var costField = g_form.getValue('cost'); 
+	var tipField = g_form.getValue('tip');
+
+
+	if(costField && tipField) {
+		//paidField = Math.max(0, paidField);
+		//tipField = Math.max(0, tipField);
+		var toPay = (parseFloat(costField) + parseFloat(tipField));		
+		g_form.setValue('to_pay', toPay);
+
+	}
+
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>snaccit</sys_created_by>
+        <sys_created_on>2023-09-15 07:19:27</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01753ca90795b110294cfc018c1ed048</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Total calculation - Tip</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Food Fetch" source="x_sigh_food_fetch">6e91a89d1b5935105e421066b04bcbac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Food Fetch">6e91a89d1b5935105e421066b04bcbac</sys_scope>
+        <sys_update_name>sys_script_client_01753ca90795b110294cfc018c1ed048</sys_update_name>
+        <sys_updated_by>snaccit</sys_updated_by>
+        <sys_updated_on>2023-09-15 07:21:18</sys_updated_on>
+        <table>x_sigh_food_fetch_grub_grab</table>
+        <type>onChange</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="73f7419107597110294cfc018c1ed0b7" extends="task" max_length="40" name="x_sigh_food_fetch_foraging" type="collection">
+        <element label="Total Cost" max_length="40" name="total_cost" read_only="true" type="float"/>
+        <element label="Total Paid" max_length="40" name="total_paid" read_only="true" type="float"/>
+        <element label="Total Tip" max_length="40" name="total_tip" read_only="true" type="float"/>
+    </element>
+</database>

@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="af9d495907597110294cfc018c1ed016" sys_domain="global" table="x_sigh_food_fetch_grub_grab" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_id</element>
+            <position>0</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>57a6f16107d9b110294cfc018c1ed0ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>dish_name</element>
+            <position>1</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>dba6f16107d9b110294cfc018c1ed0ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>special_request</element>
+            <position>2</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>5fa6f16107d9b110294cfc018c1ed0ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>dfa6f16107d9b110294cfc018c1ed0ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>foraging</element>
+            <position>4</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>53a6356107d9b110294cfc018c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cost</element>
+            <position>5</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>d3a6356107d9b110294cfc018c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>tip</element>
+            <position>6</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>57a6356107d9b110294cfc018c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>to_pay</element>
+            <position>7</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>d7a6356107d9b110294cfc018c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>paid</element>
+            <position>8</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>5ba6356107d9b110294cfc018c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>change</element>
+            <position>9</position>
+            <sys_created_by>snaccit</sys_created_by>
+            <sys_created_on>2023-09-15 12:04:24</sys_created_on>
+            <sys_id>dba6356107d9b110294cfc018c1ed000</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_sigh_food_fetch_grub_grab" sys_domain="global" view="Default view">af9d495907597110294cfc018c1ed016</sys_ui_section>
+            <sys_updated_by>snaccit</sys_updated_by>
+            <sys_updated_on>2023-09-15 12:04:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_sigh_food_fetch_grub_grab</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>Yasir</sys_created_by>
+            <sys_created_on>2023-09-14 14:26:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af9d495907597110294cfc018c1ed016</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_sigh_food_fetch_grub_grab</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Food Fetch" source="x_sigh_food_fetch">6e91a89d1b5935105e421066b04bcbac</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Food Fetch">6e91a89d1b5935105e421066b04bcbac</sys_scope>
+            <sys_update_name>sys_ui_section_af9d495907597110294cfc018c1ed016</sys_update_name>
+            <sys_updated_by>Yasir</sys_updated_by>
+            <sys_updated_on>2023-09-14 14:26:33</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field>to_pay</field>
+        <mandatory>ignore</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>Yasir</sys_created_by>
+        <sys_created_on>2023-09-15 08:49:19</sys_created_on>
+        <sys_id>9af9c5210719b110294cfc018c1ed05a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>to_pay</sys_name>
+        <sys_package display_value="Food Fetch" source="x_sigh_food_fetch">6e91a89d1b5935105e421066b04bcbac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Food Fetch">6e91a89d1b5935105e421066b04bcbac</sys_scope>
+        <sys_update_name>sys_ui_policy_action_9af9c5210719b110294cfc018c1ed05a</sys_update_name>
+        <sys_updated_by>snaccit</sys_updated_by>
+        <sys_updated_on>2023-09-15 12:05:43</sys_updated_on>
+        <table>x_sigh_food_fetch_grub_grab</table>
+        <ui_policy display_value="To Pay Feld soll nur dann angezeigt werden,  wenn Cost und Tip ausgefüllt sind.">bac84dad07d5b110294cfc018c1ed064</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>

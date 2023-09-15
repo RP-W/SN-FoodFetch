@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_style">
+    <sys_ui_style action="INSERT_OR_UPDATE">
+        <alt/>
+        <element>to_pay</element>
+        <name>x_sigh_food_fetch_grub_grab</name>
+        <style>color: green;</style>
+        <sys_class_name>sys_ui_style</sys_class_name>
+        <sys_created_by>snaccit</sys_created_by>
+        <sys_created_on>2023-09-15 08:05:08</sys_created_on>
+        <sys_id>26dff0a507d5b110294cfc018c1ed01f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_sigh_food_fetch_grub_grab</sys_name>
+        <sys_package display_value="Food Fetch" source="x_sigh_food_fetch">6e91a89d1b5935105e421066b04bcbac</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Food Fetch">6e91a89d1b5935105e421066b04bcbac</sys_scope>
+        <sys_update_name>sys_ui_style_26dff0a507d5b110294cfc018c1ed01f</sys_update_name>
+        <sys_updated_by>snaccit</sys_updated_by>
+        <sys_updated_on>2023-09-15 08:05:08</sys_updated_on>
+        <value>15</value>
+    </sys_ui_style>
+    <sys_translated_text action="delete_multiple" query="documentkey=26dff0a507d5b110294cfc018c1ed01f"/>
+</record_update>

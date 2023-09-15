@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b0e78d5107597110294cfc018c1ed0ee" max_length="40" name="x_sigh_food_fetch_grub_grab" type="collection">
+        <element label="Change" max_length="40" name="change" type="float"/>
+        <element label="Cost" mandatory="true" max_length="40" name="cost" type="float"/>
+        <element label="Paid" mandatory="true" max_length="40" name="paid" type="float"/>
+        <element default="0" label="Tip" mandatory="true" max_length="40" name="tip" type="float"/>
+        <element label="To Pay" max_length="40" name="to_pay" type="float"/>
+    </element>
+</database>
